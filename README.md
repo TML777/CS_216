@@ -1,2 +1,2 @@
 # CS_216
-OOP C++
+Object-Oriented Programming C++
